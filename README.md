@@ -11,7 +11,7 @@
 - 📫 How to reach me **yadavamit222137@gmail.com**
 
 - ⚡ Fun fact **I think programming is co-ding🤞**.
-
+<hr>
 <h2 align='center' height="10">
 <i><a href="https://github.com/Amit-Yadav21/github-readme-activity-graph">Activity Graph 📈</i>
 </h2>
@@ -32,9 +32,9 @@
 <a href="https://www.codechef.com/users/yadav_amit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yadav_amit" height="30" width="60" /></a>
 <a href="https://app.netlify.com/teams/amit-yadav21/overview" target="blank"><img align="center" src="https://res.cloudinary.com/dcexrqoje/image/upload/v1689491612/a55lxwwyg3mfrn81nefp.png" alt="yadav_amit" height="30" width="80" /></a>
 </p>
+<hr>
 
 <h2 align='center'><i>Languages and Tools</i></h2>
-
 <table width="100" align='center'>
 <tr>
     <td align='center'>
@@ -88,7 +88,7 @@
     </td>
 </tr>
 </table>
-
+<hr>
 <a href="https://github.com/Amit-Yadav21/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-Yadav21&theme=radical&hide=glsl,python" />
 </a>
