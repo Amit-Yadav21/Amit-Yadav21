@@ -12,7 +12,10 @@
 
 - ⚡ Fun fact **I think programming is co-ding🤞**.
 
-<h2 align='center'><i><a href="https://github.com/Amit-Yadav21/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<h2 align='center'>
+<i><a href="https://github.com/Amit-Yadav21/github-readme-activity-graph" height="30">Activity Graph 📈</i>
+</h2>
+
 <p align="center">
 <a href="https://github.com/Amit-Yadav21/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-Yadav21&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
