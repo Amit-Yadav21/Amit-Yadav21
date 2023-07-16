@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio] ---.
 
-- 💬 Ask me about **React**.
+<!-- - 💬 Ask me about **React**. -->
 
 - 📫 How to reach me **yadavamit222137@gmail.com**
 
