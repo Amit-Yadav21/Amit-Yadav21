@@ -37,7 +37,7 @@
 
 <table width="80">
 <tr>
-    <td align='center' width="100" height="60">
+    <td align='center' width="50" height="60">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/> </a>
     </td>
     <td align='center' width="100">
