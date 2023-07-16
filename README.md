@@ -12,8 +12,8 @@
 
 - ⚡ Fun fact **I think programming is co-ding🤞**.
 
-<h2 align='center'>
-<i><a href="https://github.com/Amit-Yadav21/github-readme-activity-graph" height="30">Activity Graph 📈</i>
+<h2 align='center' height="20">
+<i><a href="https://github.com/Amit-Yadav21/github-readme-activity-graph">Activity Graph 📈</i>
 </h2>
 
 <p align="center">
