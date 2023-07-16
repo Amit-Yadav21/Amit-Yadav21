@@ -96,5 +96,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amit-Yadav21&show_icons=true&theme=radical&line_height=27" alt="Amit-Yadav21's github stats" />
 </a>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-Yadav21&" alt="Amit-Yadav21" /></p> -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amit-Yadav21&theme=gotham)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-Yadav21&" alt="Amit-Yadav21" /></p>
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amit-Yadav21&theme=gotham)](https://git.io/streak-stats) -->
