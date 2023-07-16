@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Amit Yadav</h1>
-<h3 align="leftr">A passionate Full Stack developer from India.</h3>
+<!-- <h3 align="leftr">A passionate Full Stack developer from India.</h3> -->
 <!-- <h3 align="left">Views:</h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amit-YAdav21&label=Profile%20views&color=0e75b6&style=flat" alt="Amit-Yadav21" /> </p>  
 
