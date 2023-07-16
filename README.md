@@ -25,7 +25,7 @@
 </a>
 </p>
 <hr>
-<h3 align="left"><i>Connect with me </i></h3>
+<h2 align="left"><i>Connect with me </i></h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/amit-yadav21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-yadav21" height="30" width="40" /></a>
 <!-- <a href="https://www.instagram.com/amyadav9732?r=nametag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amyadav9732" height="30" width="40" /></a> -->
