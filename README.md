@@ -3,7 +3,7 @@
 <!-- <h3 align="left">Views:</h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amit-YAdav21&label=Profile%20views&color=0e75b6&style=flat" alt="Amit-Yadav21" /> </p>  
 
-[![Github](https://img.shields.io/github/followers/Amit-Yadav21?label=Follow&style=socail)](https://github.com/Amit-Yadav21) ![](https://visitor-badge.laobi.icu/badge?page_id=Amit-Yadav21.Amit-Yadav21)
+<!-- [![Github](https://img.shields.io/github/followers/Amit-Yadav21?label=Follow&style=socail)](https://github.com/Amit-Yadav21) ![](https://visitor-badge.laobi.icu/badge?page_id=Amit-Yadav21.Amit-Yadav21) -->
 
 ### More about me:
 - 🌱 I’m a **Full Stack Developer**
