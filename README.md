@@ -10,6 +10,7 @@
 - 📫 How to reach me **yadavamit222137@gmail.com**
 - ⚡ Fun fact **I think programming is co-ding🤞**.
 <!-- - 💬 Ask me about **React**. -->
+ <img src="https://h5p.org/content-types/image-choice" width="100" height="40">
 <hr>
 <h2 align='center' height="10">
 <i><a href="https://github.com/Amit-Yadav21/github-readme-activity-graph">Activity Graph 📈</i>
