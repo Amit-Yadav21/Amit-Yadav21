@@ -38,7 +38,7 @@
 <table width="80">
 <tr>
     <td align='center'>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="80"/> </a>
     </td>
     <td align='center' width="100">
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
