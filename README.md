@@ -2,14 +2,11 @@
 <h3 align="leftr">A passionate Full Stack developer from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amit-YAdav21&label=Profile%20views&color=0e75b6&style=flat" alt="Amit-Yadav21" /> </p>
 
+### More about me:
 - 🌱 I’m a **Full Stack Developer**
-
 - 👨‍💻 All of my projects are available at [Portfolio] ---.
-
 <!-- - 💬 Ask me about **React**. -->
-
 - 📫 How to reach me **yadavamit222137@gmail.com**
-
 - ⚡ Fun fact **I think programming is co-ding🤞**.
 <hr>
 <h2 align='center' height="10">
