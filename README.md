@@ -35,7 +35,7 @@
 
 <h2 align='center'><i>Languages and Tools</i></h2>
 
-<table width="100">
+<table width="100" align='center'>
 <tr>
     <td align='center'>
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="60"/> </a>
