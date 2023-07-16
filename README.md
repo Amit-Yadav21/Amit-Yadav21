@@ -5,9 +5,9 @@
 ### More about me:
 - 🌱 I’m a **Full Stack Developer**
 - 👨‍💻 All of my projects are available at [Portfolio] ---.
-<!-- - 💬 Ask me about **React**. -->
 - 📫 How to reach me **yadavamit222137@gmail.com**
 - ⚡ Fun fact **I think programming is co-ding🤞**.
+<!-- - 💬 Ask me about **React**. -->
 <hr>
 <h2 align='center' height="10">
 <i><a href="https://github.com/Amit-Yadav21/github-readme-activity-graph">Activity Graph 📈</i>
