@@ -12,9 +12,9 @@
 <!-- - 💬 Ask me about **React**. -->
 
 <hr>
-<h2 align='center' height="10">
+<!-- <h2 align='center' height="10">
 <i><a href="https://github.com/Amit-Yadav21/github-readme-activity-graph">Activity Graph 📈</i>
-</h2>
+</h2> -->
 
 <p align="center">
 <a href="https://github.com/Amit-Yadav21/github-readme-activity-graph#gh-light-mode-only">
