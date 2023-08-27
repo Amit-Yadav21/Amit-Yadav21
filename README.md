@@ -5,7 +5,7 @@
 
 <!-- [![Github](https://img.shields.io/github/followers/Amit-Yadav21?label=Follow&style=socail)](https://github.com/Amit-Yadav21) ![](https://visitor-badge.laobi.icu/badge?page_id=Amit-Yadav21.Amit-Yadav21) -->
 ### More about me:
-- 🌱 I’m currently working **Xpertiks Company in Mohali, Chandigarh**
+- 🌱 I’m currently working **Xpertiks Company in Mohali, Chandigarh Punjab**
 - 👨‍💻 All of my projects are available at [Portfolio] ---.
 - 📫 How to reach me **yadavamit222137@gmail.com**
 - ⚡ Fun fact **I think programming is co-ding🤞**.
